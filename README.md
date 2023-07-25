@@ -1,3 +1,3 @@
 # python-opencv
 WebSite:
-https://noitalog.tokyo/python-opencv/
+https://noitaro.github.io/python-opencv/
